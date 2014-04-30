@@ -36,10 +36,10 @@ If you wish to make comments regarding this document in a manner that is tracked
         3.1.1.2.1. Pattern Partial Syntax
         3.1.1.2.2. Style Modifier Syntax
         3.1.1.2.3. Pattern Parameter Syntax
-        3.1.1.2.4. General Use
-        3.1.1.2.5. Booleans
-        3.1.1.2.6. Simple Lists
-        3.1.1.2.7. listItem Replacement
+          3.1.1.2.3.1. General Use
+          3.1.1.2.3.2. Booleans
+          3.1.1.2.3.3. Simple Lists
+          3.1.1.2.3.4. listItem Replacement
       3.1.1.3. Using Other Template Engines for Patterns
     3.1.2 Markdown
     3.1.3 JSON
