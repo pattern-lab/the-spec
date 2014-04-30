@@ -12,7 +12,7 @@ Pattern Lab implementations SHOULD report the most recent version of the spec (m
 
 ## Providing Feedback
 
-If you wish to make comments regarding this document in a manner that is tracked by the Pattern Lab team please submit them via using the specifications issue tracker. All feedback is welcome.
+If you wish to make comments regarding this document in a manner that is tracked by the Pattern Lab team please submit them using the [specification issue tracker](https://github.com/pattern-lab/the-spec/issues). All feedback is welcome.
 
 ## Table of Contents
 
