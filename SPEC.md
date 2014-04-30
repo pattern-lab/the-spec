@@ -16,11 +16,15 @@ If you wish to make comments regarding this document in a manner that is tracked
 
 ## Table of Contents
 
-1. Introduction
+<style>
+  ol { list-style: none; };
+</style>
+
+1. 1. Introduction
    1. 1.1. Background
    1. 1.2. Audience
    1. 1.3. Suggested Reading
-2. General Functionality
+1. 2. General Functionality
    1. 2.1. Pattern Generation
       1. 2.1.1. Style Guide Page
       1. 2.1.2. View All Pages
