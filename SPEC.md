@@ -28,7 +28,7 @@ If you wish to make comments regarding this document in a manner that is tracked
   2.2. The Viewer page
 3. Common Infrastructure
   3.1. Core Technologies
-    3.1.1 Mustache
+    3.1.1. Mustache
       3.1.1.1. File System Loader
       3.1.1.2. Pattern Loader
         3.1.1.2.1. Pattern Paths Configuration
@@ -40,10 +40,10 @@ If you wish to make comments regarding this document in a manner that is tracked
           3.1.1.2.3.3. Simple Lists
           3.1.1.2.3.4. listItem Replacement
       3.1.1.3. Using Other Template Engines for Patterns
-    3.1.2 Markdown
-    3.1.3 JSON
-    3.1.4 YAML
-    3.1.5 Zip
+    3.1.2. Markdown
+    3.1.3. JSON
+    3.1.4. YAML
+    3.1.5. Zip
   3.2. Core Organization
     3.2.1. Atomic Design Not Required
     3.2.2. Source and Public Directories
@@ -125,7 +125,7 @@ If you wish to make comments regarding this document in a manner that is tracked
     4.1.1. No Cache
   4.2. Fetch Starter Kit Command
   4.3. Snapshot Command and Options
-    4.3.1 Default Location for Snapshots
+    4.3.1. Default Location for Snapshots
   4.4. Update Command
   4.5. Version Command
   4.6. Help Command
