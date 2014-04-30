@@ -22,11 +22,10 @@ If you wish to make comments regarding this document in a manner that is tracked
   1.3. Suggested Reading
 2. General Functionality
   2.1. Pattern Generation
-    2.1.1. Viewer Page
-    2.1.2. Style Guide Page
-    2.1.3. View All Pages
-    2.1.4. Pattern Pages
-  2.2. The Viewer
+    2.1.1. Style Guide Page
+    2.1.2. View All Pages
+    2.1.3. Pattern Pages
+  2.2. The Viewer page
 3. Common Infrastructure
   3.1. Core Technologies
     3.1.1 Mustache
