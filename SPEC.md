@@ -44,7 +44,7 @@ If you wish to make comments regarding this document in a manner that is tracked
   3.4. YAML
   3.5. Zip
 4. File System Organization
-  4.1. Atomic Design Not Required
+  4.1. Atomic Design Naming Convention Not Required
   4.2. Source and Public Directories
   4.3. Sample Structure
   4.4. Configuration
