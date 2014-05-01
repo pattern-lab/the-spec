@@ -138,13 +138,13 @@ If you wish to make comments regarding this document in a manner that is tracked
           6.2.1.1.2.1. patternSubtypeItems
         6.2.1.1.3. patternItems
       6.2.1.2. Extended Attributes
-        5.2.1.2.1. cacheBuster
-        5.2.1.2.2. ishControlsHide
-        5.2.1.2.3. ishminimum
-        5.2.1.2.4. ishmaximum
-        5.2.1.2.5. mqs
-        5.2.1.2.6. patternpaths 
-        5.2.1.2.7. viewallpaths
+        6.2.1.2.1. cacheBuster
+        6.2.1.2.2. ishControlsHide
+        6.2.1.2.3. ishminimum
+        6.2.1.2.4. ishmaximum
+        6.2.1.2.5. mqs
+        6.2.1.2.6. patternpaths 
+        6.2.1.2.7. viewallpaths
       6.2.1.3. Example
     6.2.2. patternPaths
       6.2.2.1. Attributes
