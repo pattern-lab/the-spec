@@ -16,7 +16,7 @@ If you wish to make comments regarding this document in a manner that is tracked
 
 ## Table of Contents
 
-Single asterisk (*) denotes a feature currently in `dev` in the PHP version of Pattern Lab. Double asterisks (**) denote an upcoming feature.
+Single asterisk denotes a feature currently in `dev` in the PHP version of Pattern Lab. Double asterisks denote an upcoming feature.
 
 <pre>1. Introduction
   1.1. Background
