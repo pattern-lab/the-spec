@@ -16,6 +16,8 @@ If you wish to make comments regarding this document in a manner that is tracked
 
 ## Table of Contents
 
+Single asterisk (*) denotes a feature currently in `dev` in the PHP version of Pattern Lab. Double asterisks (**) denote an upcoming feature.
+
 <pre>1. Introduction
   1.1. Background
   1.2. Audience
@@ -36,13 +38,13 @@ If you wish to make comments regarding this document in a manner that is tracked
       3.1.2.3. Pattern Parameter Syntax
         3.1.2.3.1. General Use
         3.1.2.3.2. Booleans
-        3.1.2.3.3. Simple Lists
-        3.1.2.3.4. listItem Replacement
-    3.1.3. Using Other Template Engines for Patterns
-  3.2. Markdown
+        3.1.2.3.3. Simple Lists*
+        3.1.2.3.4. listItem Replacement*
+    3.1.3. Using Other Template Engines for Patterns*
+  3.2. Markdown**
   3.3. JSON
-  3.4. YAML
-  3.5. Zip
+  3.4. YAML**
+  3.5. Zip**
 4. File System Organization
   4.1. Atomic Design Naming Convention Not Required
   4.2. Source and Public Directories
@@ -57,11 +59,11 @@ If you wish to make comments regarding this document in a manner that is tracked
         4.4.3.3.1. Platform-specific Defaults
       4.4.3.4. ishMaximum
       4.4.3.5. ishMinimum
-      4.4.3.6. patternEngine
+      4.4.3.6. patternEngine*
       4.4.3.7. patternStates
       4.4.3.8. styleGuideExcludes
       4.4.3.9. v (Version Number)
-      4.4.3.10. viewportResizer
+      4.4.3.10. viewportResizer**
   4.5. Data
     4.5.1. Location
     4.5.2. Format
@@ -74,13 +76,13 @@ If you wish to make comments regarding this document in a manner that is tracked
     4.5.7. Pattern-Specific Data
       4.5.7.1. Naming Convention
   4.6. Documentation
-    4.6.1. Project Documentation
-      4.6.1.1. Location
-      4.6.1.2. Format
-    4.6.2. Pattern Documentation
-      4.6.2.1. Format
-      4.6.2.2. Naming Convention
-        4.6.2.2.1. Example
+    4.6.1. Project Documentation**
+      4.6.1.1. Location**
+      4.6.1.2. Format**
+    4.6.2. Pattern Documentation**
+      4.6.2.1. Format**
+      4.6.2.2. Naming Convention**
+        4.6.2.2.1. Example**
     4.6.3. Annotations
       4.6.3.1. Location
       4.6.3.2. Format
@@ -107,8 +109,8 @@ If you wish to make comments regarding this document in a manner that is tracked
         4.8.1.2.3. patternPaths.mustache
         4.8.1.2.4. optionals.mustache
         4.8.1.2.5. viewAllPaths.mustache
-        4.8.1.2.6. viewerCode.mustache
-        4.8.1.2.7. viewerAnnotation.mustache
+        4.8.1.2.6. viewerCode.mustache*
+        4.8.1.2.7. viewerAnnotation.mustache*
     4.8.2. Style Guide and View All Pages
       4.8.1. viewall.mustache
     4.8.3. Patterns Additions
@@ -122,10 +124,10 @@ If you wish to make comments regarding this document in a manner that is tracked
 5. Command Line Input
   5.1. Build Command and Options
     5.1.1. No Cache
-  5.2. Fetch Starter Kit Command
-  5.3. Snapshot Command and Options
-    5.3.1. Default Location for Snapshots
-  5.4. Update Command
+  5.2. Fetch Starter Kit Command**
+  5.3. Snapshot Command and Options**
+    5.3.1. Default Location for Snapshots**
+  5.4. Update Command**
   5.5. Version Command
   5.6. Help Command
 6. Output
