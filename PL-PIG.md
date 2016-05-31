@@ -43,3 +43,15 @@ You **do not** need to be a voting member to participate in discussion on
 [Gitter](https://gitter.im/pattern-lab/spec) or Github.
 
 Voting membership is currently limited to those directly maintaining Core implementations.
+
+## Voting Members
+
+The following are voting members of PL-PIG:
+
+* Brian Muenzenmeyer on behalf of PL/Node Core implementation
+* Dave Olsen on behalf of PL/PHP Core implementation
+* Brad Frost by invitation
+
+***
+
+Based on [PHP-FIG](http://www.php-fig.org). License: [CC-BY](https://creativecommons.org/licenses/by/3.0/us/legalcode)
