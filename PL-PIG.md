@@ -49,7 +49,7 @@ Voting membership is currently limited to those directly maintaining Core implem
 The following are voting members of PL-PIG:
 
 * Brian Muenzenmeyer on behalf of PL/Node Core implementation
-* Dave Olsen on behalf of PL/PHP Core implementation
+* Evan Lovely on behalf of PL/PHP Core implementation
 * Brad Frost by invitation
 
 ***
